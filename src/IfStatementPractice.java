@@ -61,6 +61,7 @@ public class IfStatementPractice {
 		minutes -= 2;
 		cost = 1.15 + minutes * 0.5;
 		return cost;
+		//
 	}
 
 }
